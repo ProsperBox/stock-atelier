@@ -1,6 +1,6 @@
 # Horaires de l'atelier
 
-Mardi : 17h - 20h
+Mardi : 16h - 20h
 Mercredi : fermé
 Jeudi : 17h - 20h
 Vendredi : fermé
